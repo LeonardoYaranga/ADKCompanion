@@ -1,4 +1,4 @@
-# WakuWaku - AI Companion with Google ADK
+# AI Companion with Google ADK
 
 This project is built using **Google ADK (Agent Development Kit)** with a Flask backend. It uses **Function Calling / Tools** so the AI can change facial expressions intelligently and contextually based on the conversation.
 
