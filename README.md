@@ -62,6 +62,7 @@ If you set `TTS_TYPE=EDGE` in your `.env`, list all available voices with:
 * **English**: `en-GB-LibbyNeural`
 * **Spanish (Mexico)**: `es-MX-DaliaNeural`
 * **Chinese**: `zh-CN-XiaoxiaoNeural`
+* **Spanish**: `es-PY-TaniaNeural`
 
 ---
 
